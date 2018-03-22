@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Agila Neon Monocyanide",
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.cursorBlinking": "phase",
+    "editor.rulers": [80],
+    "eslint.run": "onSave",
+    "eslint.enable": true,
+    "editor.renderWhitespace": "all",
+    "files.eol": "\n",
+    "workbench.colorCustomizations": {
+      "sideBar.background": "#080D12",
+      "sideBar.border": "#272b30",
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
+    "workbench.iconTheme": "easy-icons",
+    "window.zoomLevel": 0,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+}
