@@ -1,5 +1,5 @@
 {
-    "workbench.colorTheme": "Agila Neon Monocyanide",
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
     "editor.tabSize": 2,
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.wordWrap": "wordWrapColumn",
@@ -9,14 +9,26 @@
     "eslint.enable": true,
     "editor.renderWhitespace": "all",
     "files.eol": "\n",
-    "workbench.colorCustomizations": {
-      "sideBar.background": "#080D12",
-      "sideBar.border": "#272b30",
-    },
     "terminal.integrated.shell.windows": "C:\\Windows\\System32\\bash.exe",
-    "workbench.iconTheme": "easy-icons",
+    "workbench.iconTheme": "eq-material-theme-icons-ocean",
     "window.zoomLevel": 0,
-    "editor.fontFamily": "Consolas, 'Courier New', monospace",
-    "editor.fontLigatures": true,
+    "editor.fontFamily": "'Operator Mono', monospace",
     "editor.fontSize": 14,
+    "editor.lineHeight": 24,
+    "editor.fontWeight": "200",
+    "editor.fontLigatures": true,
+    "terminal.integrated.rendererType": "dom",
+    // Port number to use for connection.
+    "remote.port": 52698,
+
+    // Launch the server on start up.
+    "remote.onstartup": true,
+
+    // Address to listen on.
+    "remote.host": "127.0.0.1",
+
+    // If set to true, error for remote.port already in use won't be shown anymore.
+    "remote.dontShowPortAlreadyInUseError": false,
+    "materialTheme.fixIconsRunning": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
 }
